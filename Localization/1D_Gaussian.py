@@ -2,7 +2,7 @@ import math
 
 def compute_gaussian(mu,sigma,state):
 
-    prob = 1.0 /sigma * math.sqrt(2 * math.pi) * math.exp(- (state - mu)**2 / (2 * sigma**2))
+    prob = 1.0 /math.sqrt(2 * math.pi * sigma) * math.exp(-(state - mu)**2 / (2 * sigma))
     return prob
 
 
