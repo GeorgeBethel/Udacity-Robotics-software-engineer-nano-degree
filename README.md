@@ -1,2 +1,2 @@
 # Udacity-Robotics-software-engineer-nano-degree
-Code Implementation of assignments in Udacity Robotics software engineering nano degree program
+Python code implementation of assignments in Udacity Robotics Software Engineering nano degree program
